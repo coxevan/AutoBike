@@ -3,7 +3,6 @@ import pymel.core as py
 
 import gen_def as df
 import main_ui as mi
-reload(df)
 
 
 def bike_start_gui():
