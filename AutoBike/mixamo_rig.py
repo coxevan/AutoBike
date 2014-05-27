@@ -1,4 +1,7 @@
 """
+
+
+######EVAN: THIS ASPECT OF THE SCRIPT MAY BE BROKEN AS MIXAMOS AUTORIGGER IS SORT OF JANKY. LOOK INTO IMPLEMENTING FUTURE RELEASES
 MIXAMO Maya Auto Control Rig
 www.mixamo.com/c/maya-auto-control-rig
 Copyright Mixamo www.mixamo.com 2012 Created by Dan Babcock
