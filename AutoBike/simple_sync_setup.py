@@ -1,13 +1,9 @@
-__author__ = 'Evan'
 import pymel.core as py
 import maya.cmds as mc
 import os
 
 import main_ui as mi
 import gen_def as df
-
-reload(mi)
-reload(df)
 
 
 class ChrisGui():
