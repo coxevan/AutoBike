@@ -6,11 +6,6 @@ import gen_def as df
 import mixamo_rig as mr
 import bike_ui as bi
 
-reload(ss)
-reload(df)
-reload(mr)
-reload(bi)
-
 
 class GelUtil():
     file_path = ''
